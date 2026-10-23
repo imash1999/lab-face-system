@@ -198,14 +198,3 @@ lab-face-system/
 - 文档版本：V1.0
 ```
 
-### Шаг 3. Сохраните и выйдите из Nano
-
-Нажмите `Ctrl+O` (сохранить), затем `Enter` (подтвердить имя), затем `Ctrl+X` (выйти).
-
-### Шаг 4. Закоммитьте исправление
-
-```bash
-git add README.md
-git commit -m "Fix README markdown formatting"
-git push origin main
-```
