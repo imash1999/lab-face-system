@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Локальные файлы
+*.log
+test_face.jpg
+test_face_2.jpg
+
+# Не игнорируем full_dump.sql (он нужен в проекте)
+!full_dump.sql
