@@ -1,4 +1,3 @@
-```markdown
 # 基于人脸识别的实验室管理系统
 
 > 本科毕业设计项目 — 管理信息系统 + 智能接口集成  
@@ -11,13 +10,13 @@
 
 ## 二、技术栈
 
-| 层次 | 技术 |
-|------|------|
-| 前端 | Vue 3 + Vite + Element Plus + ECharts + Pinia + Vue Router |
-| 后端 | Django 5 + Django REST Framework + SimpleJWT |
-| 数据库 | PostgreSQL 16 |
-| 人脸识别 | face_recognition + dlib-bin（CPU 可运行） |
-| 部署 | Docker Compose |
+
+
+前端:     Vue 3 + Vite + Element Plus + ECharts + Pinia + Vue Router 
+后端:     Django 5 + Django REST Framework + SimpleJWT 
+数据库:   PostgreSQL 16 
+人脸识别: face_recognition + dlib-bin(CPU 可运行)
+部署:     Docker Compose 
 
 ## 三、快速启动
 
