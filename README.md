@@ -21,6 +21,10 @@
 
 ## 三、快速启动
 
+```bash
+git clone https://github.com/imash1999/lab-face-system
+```
+
 ### 前置要求
 - Docker Desktop（已在 WSL 中集成）
 - 无需单独安装 Python / Node.js / PostgreSQL
